@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 /.idea
 /data
-projects.db
+data.db
